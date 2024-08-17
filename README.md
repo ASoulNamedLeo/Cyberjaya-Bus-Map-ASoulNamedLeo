@@ -1,5 +1,4 @@
-Full high-res map here
-![alt text] (https://github.com/ASoulNamedLeo/Cyberjaya-Bus-Map-ASoulNamedLeo/blob/main/CyberjayaPublicTransitMap2024%20(1).pdf) 
+Full high-res map here (https://github.com/ASoulNamedLeo/Cyberjaya-Bus-Map-ASoulNamedLeo/blob/main/CyberjayaPublicTransitMap2024%20(1).pdf) 
 
 If you like/appreciate my work, support me on Ko-Fi (PayPal) for more :)
 
