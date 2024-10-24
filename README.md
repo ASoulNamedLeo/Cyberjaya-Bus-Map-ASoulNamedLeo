@@ -9,5 +9,5 @@ Else you can also donate to my work through TNG eWallet below
 https://payment.tngdigital.com.my/sc/bDLnyPzIzv 
 
 Or donate to my work with Duitnow QR below
-![alt text]https://github.com/ASoulNamedLeo/Cyberjaya-Bus-Map-ASoulNamedLeo/blob/main/Support%20My%20Work%20through%20Duitnow%20QR.png
+![alt text](https://github.com/ASoulNamedLeo/Cyberjaya-Bus-Map-ASoulNamedLeo/blob/main/Support%20My%20Work%20through%20Duitnow%20QR.png)
 
